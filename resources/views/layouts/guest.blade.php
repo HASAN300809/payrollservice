@@ -18,7 +18,7 @@
         <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100">
             <div>
                 <a href="/">
-                    <img src="{{ asset('storage/image/logoperusahaan.png') }}" alt="" class="w-20 h-20">
+                    <img src="{{ asset('storage/image/logoperusahaan1.png') }}" alt="" class="w-20 h-20">
                 </a>
             </div>
 
